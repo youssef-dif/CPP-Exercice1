@@ -1,0 +1,4 @@
+NR MATRICOL 	|GRUPA 	|AN 	|ABSENTECURS1 	|ABSENTESEMINAR1 	|ABSENTECURS2 	|ABSENTESEMINAR2 	|ABSENTECURS3 	|ABSENTESEMINAR3 	|ABSENTECURS4 	|ABSENTESEMINAR4 	|ABSENTECURS5 	|ABSENTESEMINAR5 	|ABSENTECURS6 	|ABSENTESEMINAR6 	|ABSENTECURS7 	|ABSENTESEMINAR7 	|ABSENTECURS8 	|ABSENTESEMINAR8 	|ABSENTECURS9 	|ABSENTESEMINAR9 	|ABSENTECURS10 	|ABSENTESEMINAR10 	
+1 		|1 	|1 	|1 		|1 			|1 		|1 			|1 		|1 			|1 		|1 			|1 		|1 			|1 		|1 			|1 		|1 			|1 		|1 			|1 		|1 			|1 		|1 			
+2 		|1 	|1 	|2 		|2 			|2 		|2 			|2 		|2 			|2 		|22 			|2 		|2 			|2 		|2 			|2 		|2 			|2 		|2 			|2 		|2 			|2 		|0 			
+3 		|1 	|1 	|0 		|0 			|0 		|0 			|1 		|1 			|0 		|1 			|0 		|0 			|0 		|0 			|0 		|0 			|0 		|0 			|1 		|0 			|0 		|1 			
